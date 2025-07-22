@@ -56,7 +56,7 @@ I'm an indie full-stack developer and content creator building my version of the
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![My Linux Ubuntu Setup for Software Development](https://ytcards.demolab.com/?id=T3sax7PB0vw&title=My+Linux+Ubuntu+Setup+for+Software+Development&lang=en&timestamp=1751899205&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1283 "My Linux Ubuntu Setup for Software Development")](https://www.youtube.com/watch?v=T3sax7PB0vw)
+
 
 <!-- END YOUTUBE-CARDS -->
 
