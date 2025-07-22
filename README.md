@@ -67,8 +67,6 @@ I'm an indie full-stack developer and content creator building my version of the
 ### 📊 Stats
 [![Maxwell's GitHub stats](https://github-readme-stats.vercel.app/api?username=max-ajwang)](https://github.com/max-ajwang/github-readme-stats)
 
-![Maxwell's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxAjwang&show_icons=true&theme=gruvbox)
-
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=MaxAjwang&theme=gruvbox&border_radius=4.5) -->
 
 #
